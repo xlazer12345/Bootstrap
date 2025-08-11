@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap);
+body {
+background-color: rgb(228, 194, 42);
+    font-family: "normalidad-text",times,sans-serif; 
+    color: rgb(255, 255, 255);
+    font-size: 50px;}
+    h1{color: aqua; }
+    
+    #prodsc {color: rgb(146, 110, 116)}
+    #prodc {border-style: solid;}
+    #contact-form {background-color: limegreen;}
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        max-height: 100%;
+        width: 300px; /* You can set the dimensions to whatever you want */
+        height: 200px;
+      }
